@@ -31,4 +31,3 @@ function matchWinner(teamAGoals, teamBGoals) {
     }
 }
 
-console.log(matchWinner(2,'1'))

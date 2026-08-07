@@ -25,9 +25,6 @@ function isElevatorSafe(weights) {
 
 }
 
-const weights = [40,60,47]
-const result = isElevatorSafe(weights)
 
-console.log(result)
 
 
